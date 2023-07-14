@@ -1,0 +1,30 @@
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.login.resources
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.choose.resources
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Books.resources
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.borrow.resources
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.member.resources
+C:\Users\DELL\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Publisher.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Books.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.borrow.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.choose.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.login.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.member.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Publisher.resources
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\Courses\BI ITI 3 months\project\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
